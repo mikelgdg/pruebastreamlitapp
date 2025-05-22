@@ -58,3 +58,6 @@ tzlocal==5.3.1
 urllib3==2.4.0
 validators==0.35.0
 zipp==3.21.0
+
+
+matplotlib==3.7.2
